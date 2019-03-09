@@ -9,7 +9,7 @@
     },
     "scripts": {
         "start": "mdx-deck index.mdx",
-        "build": "mdx-deck build index.mdx",
+        "build": "mdx-deck build index.mdx -d docs",
         "test": "echo \"nope\" && exit 1"
     },
     "author": "Tianyuan Chu",
